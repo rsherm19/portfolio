@@ -1,8 +1,12 @@
 import React from 'react'
+import { useState } from "react"
+imp
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <div className='bg-black h-[100px]'>
+      
+    </div>
   )
 }
 
